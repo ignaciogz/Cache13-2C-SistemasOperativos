@@ -1,0 +1,13 @@
+iniciar 5;
+escribir 0 "hola";
+escribir 1 "esc2";
+escribir 2 "esc3";
+escribir 3 "esc4";
+escribir 4 "chau";
+entrada-salida 10;
+leer 0;
+leer 1;
+leer 2;
+leer 3;
+leer 4;
+finalizar;

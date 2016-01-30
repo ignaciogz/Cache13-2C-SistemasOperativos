@@ -1,0 +1,889 @@
+[INFO] 17:45:43:17 Proceso Planificador/(4989:5002): Conexion de cpu con ID: 5001. 
+
+[INFO] 17:45:43:40 Proceso Planificador/(4989:5005): Conexion de cpu con ID: 5000. 
+
+[INFO] 17:45:43:40 Proceso Planificador/(4989:4989): Desconexion de cpu con ID: 5001. 
+
+[INFO] 17:45:43:40 Proceso Planificador/(4989:4989): Desconexion de cpu con ID: 5000. 
+
+[INFO] 17:46:11:551 Proceso Planificador/(5034:5057): Conexion de cpu con ID: 5045. 
+
+[INFO] 17:46:17:631 Proceso Planificador/(5034:5091): Conexion de cpu con ID: 5044. 
+
+[INFO] 17:46:45:883 Proceso Planificador/(5034:5060): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/IO.codcon PID: 1. 
+
+[INFO] 17:46:45:883 Proceso Planificador/(5034:5060): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 5045. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 5044. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 17:48:32:824 Proceso Planificador/(5179:5192): Conexion de cpu con ID: 5191. 
+
+[INFO] 17:48:32:838 Proceso Planificador/(5179:5195): Conexion de cpu con ID: 5190. 
+
+[INFO] 17:49:13:607 Proceso Planificador/(5179:5193): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/IO.codcon PID: 1. 
+
+[INFO] 17:49:13:607 Proceso Planificador/(5179:5193): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 5191. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 5190. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 17:49:19:653 Proceso Planificador/(5179:5197): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Iniciado.
+mProc 1 - Pagina 3 escrita: jamas.
+mProc 1 - Pagina 3 escrita: chau.
+mProc 1 - En entrada-salida de tiempo 10.
+
+[INFO] 17:50:56:753 Proceso Planificador/(5260:5272): Conexion de cpu con ID: 5271. 
+
+[INFO] 17:50:56:769 Proceso Planificador/(5260:5275): Conexion de cpu con ID: 5270. 
+
+[INFO] 17:51:10:78 Proceso Planificador/(5260:5273): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/IO.codcon PID: 1. 
+
+[INFO] 17:51:10:78 Proceso Planificador/(5260:5273): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 5271. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 5270. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 17:51:16:97 Proceso Planificador/(5260:5278): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Iniciado.
+mProc 1 - Pagina 3 escrita: jamas.
+mProc 1 - Pagina 3 escrita: chau.
+mProc 1 - En entrada-salida de tiempo 10.
+
+[INFO] 17:54:52:438 Proceso Planificador/(5370:5381): Conexion de cpu con ID: 5379. 
+
+[INFO] 17:54:52:457 Proceso Planificador/(5370:5384): Conexion de cpu con ID: 5380. 
+
+[INFO] 17:55:11:921 Proceso Planificador/(5370:5382): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/IO.codcon PID: 1. 
+
+[INFO] 17:55:11:921 Proceso Planificador/(5370:5382): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 5379. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 5380. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 17:55:17:978 Proceso Planificador/(5370:5385): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Iniciado.
+mProc 1 - Pagina 3 escrita: jamas.
+mProc 1 - Pagina 3 escrita: chau.
+mProc 1 - En entrada-salida de tiempo 10.
+
+[INFO] 17:57:11:168 Proceso Planificador/(5461:5472): Conexion de cpu con ID: 5471. 
+
+[INFO] 17:57:11:191 Proceso Planificador/(5461:5475): Conexion de cpu con ID: 5470. 
+
+[INFO] 17:57:43:683 Proceso Planificador/(5461:5473): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/IO.codcon PID: 1. 
+
+[INFO] 17:57:43:683 Proceso Planificador/(5461:5473): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 5471. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 5470. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 17:57:49:744 Proceso Planificador/(5461:5476): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Iniciado.
+mProc 1 - Pagina 3 escrita: jamas.
+mProc 1 - Pagina 3 escrita: chau.
+mProc 1 - En entrada-salida de tiempo 10.
+
+[INFO] 17:58:03:707 Proceso Planificador/(5461:5474): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 5471. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 5470. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 18:00:54:105 Proceso Planificador/(5509:5523): Conexion de cpu con ID: 5522. 
+
+[INFO] 18:00:54:150 Proceso Planificador/(5509:5526): Conexion de cpu con ID: 5521. 
+
+[INFO] 18:01:31:919 Proceso Planificador/(5509:5524): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3con PID: 1. 
+
+[INFO] 18:01:31:919 Proceso Planificador/(5509:5524): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 5522. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 5521. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 18:01:32:229 Proceso Planificador/(5509:5509): Desconexion de cpu con ID: 5522. 
+
+[INFO] 18:01:32:229 Proceso Planificador/(5509:5509): Desconexion de cpu con ID: 5521. 
+
+[INFO] 18:02:49:209 Proceso Planificador/(5555:5570): Conexion de cpu con ID: 5569. 
+
+[INFO] 18:02:49:268 Proceso Planificador/(5555:5573): Conexion de cpu con ID: 5568. 
+
+[INFO] 18:03:06:422 Proceso Planificador/(5555:5571): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/IO.codcon PID: 1. 
+
+[INFO] 18:03:06:422 Proceso Planificador/(5555:5571): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 5569. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 5568. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 18:03:12:467 Proceso Planificador/(5555:5574): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Iniciado.
+mProc 1 - Pagina 3 escrita: jamas.
+mProc 1 - Pagina 3 escrita: chau.
+mProc 1 - En entrada-salida de tiempo 10.
+
+[INFO] 18:05:51:885 Proceso Planificador/(5666:5721): Conexion de cpu con ID: 5719. 
+
+[INFO] 18:05:51:894 Proceso Planificador/(5666:5724): Conexion de cpu con ID: 5718. 
+
+[INFO] 18:06:11:962 Proceso Planificador/(5666:5722): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/bemchmark.codcon PID: 1. 
+
+[INFO] 18:06:11:962 Proceso Planificador/(5666:5722): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 5719. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 5718. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 18:06:33:561 Proceso Planificador/(5666:5730): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Iniciado.
+mProc 1 - Pagina 0 leida: .
+mProc 1 - Pagina 1 leida: .
+mProc 1 - Pagina 2 leida: .
+mProc 1 - Pagina 50 leida: .
+mProc 1 - Pagina 53 leida: .
+mProc 1 - Pagina 0 leida: .
+mProc 1 - Pagina 0 leida: .
+mProc 1 Finalizado correctamente.
+
+[INFO] 18:06:37:831 Proceso Planificador/(5666:5730): Fin de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/bemchmark.codcon PID: 1. 
+Tiempo de respuesta: 0 horas, 0 minutos, 26segundos, 869 milisegundos.
+Tiempo de espera: 0 horas, 0 minutos, 0segundos, 0 milisegundos.
+Tiempo de ejecucion: 0 horas, 0 minutos, 26segundos, 869 milisegundos.
+
+[INFO] 18:07:25:90 Proceso Planificador/(5666:5722): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/escribeSwap.codcon PID: 1. 
+
+[INFO] 18:07:25:90 Proceso Planificador/(5666:5722): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 5719. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cpu: 5718. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 18:07:41:146 Proceso Planificador/(5666:5745): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Iniciado.
+mProc 1 - Pagina 1 escrita: swap.
+mProc 1 - Pagina 1 leida: swap.
+mProc 1 - Pagina 2 escrita: el.
+mProc 1 - Pagina 2 leida: el.
+mProc 1 - Pagina 3 escrita: desde.
+mProc 1 - Pagina 3 leida: desde.
+mProc 1 - Pagina 0 escrita: hola.
+mProc 1 - Pagina 0 leida: .
+mProc 1 Finalizado correctamente.
+
+[INFO] 18:07:41:146 Proceso Planificador/(5666:5745): Fin de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/escribeSwap.codcon PID: 1. 
+Tiempo de respuesta: 0 horas, 0 minutos, 16segundos, 56 milisegundos.
+Tiempo de espera: 0 horas, 0 minutos, 0segundos, 0 milisegundos.
+Tiempo de ejecucion: 0 horas, 0 minutos, 16segundos, 56 milisegundos.
+
+[INFO] 18:08:03:928 Proceso Planificador/(5666:5722): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/TLB.codcon PID: 1. 
+
+[INFO] 18:08:03:928 Proceso Planificador/(5666:5722): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 5719. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 5718. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 18:08:19:9 Proceso Planificador/(5666:5762): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Iniciado.
+mProc 1 - Pagina 4 escrita: TLB.
+mProc 1 - Pagina 4 leida: TLB.
+mProc 1 - Pagina 4 leida: TLB.
+mProc 1 - Pagina 4 leida: TLB.
+mProc 1 - Pagina 4 leida: TLB.
+mProc 1 - Pagina 4 leida: TLB.
+mProc 1 - Pagina 5 escrita: fallo.
+mProc 1 Finalizado correctamente.
+
+[INFO] 18:08:19:9 Proceso Planificador/(5666:5762): Fin de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/TLB.codcon PID: 1. 
+Tiempo de respuesta: 0 horas, 0 minutos, 16segundos, 81 milisegundos.
+Tiempo de espera: 0 horas, 0 minutos, 0segundos, 0 milisegundos.
+Tiempo de ejecucion: 0 horas, 0 minutos, 16segundos, 81 milisegundos.
+
+[INFO] 18:21:02:586 Proceso Planificador/(5919:5929): Conexion de cpu con ID: 5928. 
+
+[INFO] 18:21:02:596 Proceso Planificador/(5919:5932): Conexion de cpu con ID: 5927. 
+
+[INFO] 18:21:34:648 Proceso Planificador/(5919:5930): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/IO.codcon PID: 1. 
+
+[INFO] 18:21:34:648 Proceso Planificador/(5919:5930): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 5928. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 5927. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 18:21:40:678 Proceso Planificador/(5919:5935): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Iniciado.
+mProc 1 - Pagina 3 escrita: jamas.
+mProc 1 - Pagina 3 escrita: chau.
+mProc 1 - En entrada-salida de tiempo 10.
+
+[INFO] 18:31:58:54 Proceso Planificador/(6159:6175): Conexion de cpu con ID: 6173. 
+
+[INFO] 18:31:58:92 Proceso Planificador/(6159:6178): Conexion de cpu con ID: 6172. 
+
+[INFO] 18:32:25:591 Proceso Planificador/(6159:6176): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/IO.codcon PID: 1. 
+
+[INFO] 18:32:25:592 Proceso Planificador/(6159:6176): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 6173. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 6172. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 18:32:40:581 Proceso Planificador/(6159:6180): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Iniciado.
+mProc 1 - Pagina 3 escrita: jamas.
+mProc 1 - Pagina 3 escrita: chau.
+mProc 1 - En entrada-salida de tiempo 10.
+
+[INFO] 18:32:53:811 Proceso Planificador/(6159:6177): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 6173. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 6172. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 18:32:55:821 Proceso Planificador/(6159:6192): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Pagina 3 leida: chau.
+mProc 1 Finalizado correctamente.
+
+[INFO] 18:32:55:821 Proceso Planificador/(6159:6192): Fin de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/IO.codcon PID: 1. 
+Tiempo de respuesta: 0 horas, 0 minutos, 30segundos, 230 milisegundos.
+Tiempo de espera: 0 horas, 0 minutos, 0segundos, 2 milisegundos.
+Tiempo de ejecucion: 0 horas, 0 minutos, 27segundos, 952 milisegundos.
+
+[INFO] 18:38:56:228 Proceso Planificador/(6353:6363): Conexion de cpu con ID: 6362. 
+
+[INFO] 18:38:56:248 Proceso Planificador/(6353:6366): Conexion de cpu con ID: 6361. 
+
+[INFO] 18:39:30:55 Proceso Planificador/(6353:6364): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/cagadas.codcon PID: 1. 
+
+[INFO] 18:39:30:55 Proceso Planificador/(6353:6364): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 6362. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 6361. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 18:39:43:224 Proceso Planificador/(6353:6364): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/IO.codcon PID: 2. 
+
+[INFO] 18:39:43:225 Proceso Planificador/(6353:6364): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 2. 
+Estado de las colas:
+Cpu: 6362. 
+Proceso Ejecutando: 2. 
+Cola de listos: .
+
+Cpu: 6361. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 18:39:49:507 Proceso Planificador/(6353:6377): Fin de rafaga de ejecucion del proceso: 2. 
+Mensajes de ejecucion: mProc 2 - Iniciado.
+mProc 2 - Pagina 3 escrita: jamas.
+mProc 2 - Pagina 3 escrita: chau.
+mProc 2 - En entrada-salida de tiempo 10.
+
+[INFO] 18:39:59:509 Proceso Planificador/(6353:6365): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 2. 
+Estado de las colas:
+Cpu: 6362. 
+Proceso Ejecutando: 2. 
+Cola de listos: .
+
+Cpu: 6361. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 18:40:00:651 Proceso Planificador/(6353:6378): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Iniciado.
+mProc 1 - Pagina 2 leida: .
+mProc 1 - Pagina 3 leida: .
+mProc 1 - Pagina 2 escrita: Pag2 M.
+mProc 1 - Pagina 1 leida: .
+mProc 1 - Pagina 5 leida: .
+mProc 1 - Pagina 2 leida: Pag2 M.
+mProc 1 - Pagina 4 escrita: Pag4 M.
+mProc 1 - Pagina 5 leida: .
+mProc 1 - Pagina 3 leida: .
+mProc 1 - Pagina 2 leida: Pag2 M.
+mProc 1 - Pagina 5 leida: .
+mProc 1 - Pagina 2 leida: Pag2 M.
+mProc 1 Finalizado correctamente.
+
+[INFO] 18:40:00:651 Proceso Planificador/(6353:6378): Fin de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/cagadas.codcon PID: 1. 
+Tiempo de respuesta: 0 horas, 1 minutos, 30segundos, 596 milisegundos.
+Tiempo de espera: 0 horas, 0 minutos, 0segundos, 0 milisegundos.
+Tiempo de ejecucion: 0 horas, 1 minutos, 30segundos, 596 milisegundos.
+
+[INFO] 18:40:01:632 Proceso Planificador/(6353:6379): Fin de rafaga de ejecucion del proceso: 2. 
+Mensajes de ejecucion: mProc 2 - Pagina 3 leida: chau.
+mProc 2 Finalizado correctamente.
+
+[INFO] 18:40:01:632 Proceso Planificador/(6353:6379): Fin de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/IO.codcon PID: 2. 
+Tiempo de respuesta: 0 horas, 1 minutos, 18segundos, 408 milisegundos.
+Tiempo de espera: 0 horas, 0 minutos, 0segundos, 1 milisegundos.
+Tiempo de ejecucion: 0 horas, 1 minutos, 18segundos, 406 milisegundos.
+
+[INFO] 18:40:11:847 Proceso Planificador/(6353:6364): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/escribeSwap.codcon PID: 1. 
+
+[INFO] 18:40:11:847 Proceso Planificador/(6353:6364): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 6362. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 6361. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 18:40:27:917 Proceso Planificador/(6353:6380): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Iniciado.
+mProc 1 - Pagina 1 escrita: swap.
+mProc 1 - Pagina 1 leida: swap.
+mProc 1 - Pagina 2 escrita: el.
+mProc 1 - Pagina 2 leida: el.
+mProc 1 - Pagina 3 escrita: desde.
+mProc 1 - Pagina 3 leida: desde.
+mProc 1 - Pagina 0 escrita: hola.
+mProc 1 - Pagina 0 leida: Pag2 M.
+mProc 1 Finalizado correctamente.
+
+[INFO] 18:40:27:917 Proceso Planificador/(6353:6380): Fin de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/escribeSwap.codcon PID: 1. 
+Tiempo de respuesta: 0 horas, 0 minutos, 16segundos, 70 milisegundos.
+Tiempo de espera: 0 horas, 0 minutos, 0segundos, 0 milisegundos.
+Tiempo de ejecucion: 0 horas, 0 minutos, 16segundos, 70 milisegundos.
+
+[INFO] 18:44:53:95 Proceso Planificador/(6453:6463): Conexion de cpu con ID: 6462. 
+
+[INFO] 18:44:53:124 Proceso Planificador/(6453:6466): Conexion de cpu con ID: 6461. 
+
+[INFO] 18:45:19:560 Proceso Planificador/(6453:6464): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/cagadas.codcon PID: 1. 
+
+[INFO] 18:45:19:560 Proceso Planificador/(6453:6464): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 6462. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 6461. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 18:45:52:181 Proceso Planificador/(6453:6467): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Iniciado.
+mProc 1 - Pagina 2 leida: .
+mProc 1 - Pagina 3 leida: .
+mProc 1 - Pagina 2 escrita: Pag2 M.
+mProc 1 - Pagina 1 leida: .
+mProc 1 - Pagina 5 leida: .
+mProc 1 - Pagina 2 leida: Pag2 M.
+mProc 1 - Pagina 4 escrita: Pag4 M.
+mProc 1 - Pagina 5 leida: .
+mProc 1 - Pagina 3 leida: .
+mProc 1 - Pagina 2 leida: Pag2 M.
+mProc 1 - Pagina 5 leida: .
+mProc 1 - Pagina 2 leida: Pag2 M.
+mProc 1 Finalizado correctamente.
+
+[INFO] 18:45:52:181 Proceso Planificador/(6453:6467): Fin de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/cagadas.codcon PID: 1. 
+Tiempo de respuesta: 0 horas, 0 minutos, 33segundos, 621 milisegundos.
+Tiempo de espera: 0 horas, 0 minutos, 0segundos, 0 milisegundos.
+Tiempo de ejecucion: 0 horas, 0 minutos, 33segundos, 621 milisegundos.
+
+[INFO] 18:46:32:798 Proceso Planificador/(6453:6464): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/cagadas.codcon PID: 1. 
+
+[INFO] 18:46:32:798 Proceso Planificador/(6453:6464): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 6462. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cpu: 6461. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 18:46:42:65 Proceso Planificador/(6453:6464): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/IO.codcon PID: 2. 
+
+[INFO] 18:46:42:65 Proceso Planificador/(6453:6464): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 2. 
+Estado de las colas:
+Cpu: 6462. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cpu: 6461. 
+Proceso Ejecutando: 2. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 18:46:48:97 Proceso Planificador/(6453:6468): Fin de rafaga de ejecucion del proceso: 2. 
+Mensajes de ejecucion: mProc 2 - Iniciado.
+mProc 2 - Pagina 3 escrita: jamas.
+mProc 2 - Pagina 3 escrita: chau.
+mProc 2 - En entrada-salida de tiempo 10.
+
+[INFO] 18:46:58:98 Proceso Planificador/(6453:6465): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 2. 
+Estado de las colas:
+Cpu: 6462. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cpu: 6461. 
+Proceso Ejecutando: 2. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 18:47:00:107 Proceso Planificador/(6453:6469): Fin de rafaga de ejecucion del proceso: 2. 
+Mensajes de ejecucion: mProc 2 - Pagina 3 leida: chau.
+mProc 2 Finalizado correctamente.
+
+[INFO] 18:47:00:107 Proceso Planificador/(6453:6469): Fin de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/IO.codcon PID: 2. 
+Tiempo de respuesta: 0 horas, 1 minutos, 18segundos, 42 milisegundos.
+Tiempo de espera: 0 horas, 0 minutos, 0segundos, 0 milisegundos.
+Tiempo de ejecucion: 0 horas, 1 minutos, 18segundos, 42 milisegundos.
+
+[INFO] 18:47:07:209 Proceso Planificador/(6453:6470): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Iniciado.
+mProc 1 - Pagina 2 leida: .
+mProc 1 - Pagina 3 leida: .
+mProc 1 - Pagina 2 escrita: Pag2 M.
+mProc 1 - Pagina 1 leida: .
+mProc 1 - Pagina 5 leida: Pag4 M.
+mProc 1 - Pagina 2 leida: Pag2 M.
+mProc 1 - Pagina 4 escrita: Pag4 M.
+mProc 1 - Pagina 5 leida: Pag4 M.
+mProc 1 - Pagina 3 leida: .
+mProc 1 - Pagina 2 leida: Pag2 M.
+mProc 1 - Pagina 5 leida: Pag4 M.
+mProc 1 - Pagina 2 leida: Pag2 M.
+mProc 1 Finalizado correctamente.
+
+[INFO] 18:47:07:209 Proceso Planificador/(6453:6470): Fin de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/cagadas.codcon PID: 1. 
+Tiempo de respuesta: 0 horas, 1 minutos, 35segundos, 411 milisegundos.
+Tiempo de espera: 0 horas, 0 minutos, 0segundos, 1 milisegundos.
+Tiempo de ejecucion: 0 horas, 1 minutos, 35segundos, 410 milisegundos.
+
+[INFO] 18:51:17:312 Proceso Planificador/(6453:6453): Desconexion de cpu con ID: 6462. 
+
+[INFO] 18:51:17:312 Proceso Planificador/(6453:6453): Desconexion de cpu con ID: 6461. 
+
+[INFO] 19:00:38:989 Proceso Planificador/(7004:7017): Conexion de cpu con ID: 7015. 
+
+[INFO] 19:00:39:26 Proceso Planificador/(7004:7020): Conexion de cpu con ID: 7016. 
+
+[INFO] 19:01:10:688 Proceso Planificador/(7004:7018): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/escribeSwap.codcon PID: 1. 
+
+[INFO] 19:01:10:688 Proceso Planificador/(7004:7018): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 7015. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 7016. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 19:01:26:790 Proceso Planificador/(7004:7022): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Iniciado.
+mProc 1 - Pagina 1 escrita: swap.
+mProc 1 - Pagina 1 leida: swap.
+mProc 1 - Pagina 2 escrita: el.
+mProc 1 - Pagina 2 leida: el.
+mProc 1 - Pagina 3 escrita: desde.
+mProc 1 - Pagina 3 leida: desde.
+mProc 1 - Pagina 0 escrita: hola.
+mProc 1 - Pagina 0 leida: swap.
+mProc 1 Finalizado correctamente.
+
+[INFO] 19:01:26:790 Proceso Planificador/(7004:7022): Fin de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/escribeSwap.codcon PID: 1. 
+Tiempo de respuesta: 0 horas, 0 minutos, 16segundos, 102 milisegundos.
+Tiempo de espera: 0 horas, 0 minutos, 0segundos, 0 milisegundos.
+Tiempo de ejecucion: 0 horas, 0 minutos, 16segundos, 102 milisegundos.
+
+[INFO] 19:01:35:179 Proceso Planificador/(7004:7018): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/bemchmark.codcon PID: 1. 
+
+[INFO] 19:01:35:180 Proceso Planificador/(7004:7018): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 7015. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cpu: 7016. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 19:01:56:774 Proceso Planificador/(7004:7023): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Iniciado.
+mProc 1 - Pagina 0 leida: .
+mProc 1 - Pagina 1 leida: .
+mProc 1 - Pagina 2 leida: .
+mProc 1 - Pagina 50 leida: .
+mProc 1 - Pagina 53 leida: .
+mProc 1 - Pagina 0 leida: .
+mProc 1 - Pagina 0 leida: .
+mProc 1 Finalizado correctamente.
+
+[INFO] 19:01:56:774 Proceso Planificador/(7004:7023): Fin de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/bemchmark.codcon PID: 1. 
+Tiempo de respuesta: 0 horas, 0 minutos, 21segundos, 595 milisegundos.
+Tiempo de espera: 0 horas, 0 minutos, 0segundos, 1 milisegundos.
+Tiempo de ejecucion: 0 horas, 0 minutos, 21segundos, 594 milisegundos.
+
+[INFO] 19:02:50:227 Proceso Planificador/(7004:7018): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/escribeSwap.codcon PID: 1. 
+
+[INFO] 19:02:50:227 Proceso Planificador/(7004:7018): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 7015. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 7016. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 19:03:05:587 Proceso Planificador/(7004:7018): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/escribeSwap.codcon PID: 2. 
+
+[INFO] 19:03:05:587 Proceso Planificador/(7004:7018): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 2. 
+Estado de las colas:
+Cpu: 7015. 
+Proceso Ejecutando: 2. 
+Cola de listos: .
+
+Cpu: 7016. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 19:03:06:309 Proceso Planificador/(7004:7034): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Iniciado.
+mProc 1 - Pagina 1 escrita: swap.
+mProc 1 - Pagina 1 leida: swap.
+mProc 1 - Pagina 2 escrita: el.
+mProc 1 - Pagina 2 leida: el.
+mProc 1 - Pagina 3 escrita: desde.
+mProc 1 - Pagina 3 leida: desde.
+mProc 1 - Pagina 0 escrita: hola.
+mProc 1 - Pagina 0 leida: swap.
+mProc 1 Finalizado correctamente.
+
+[INFO] 19:03:06:309 Proceso Planificador/(7004:7034): Fin de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/escribeSwap.codcon PID: 1. 
+Tiempo de respuesta: 0 horas, 1 minutos, 16segundos, 82 milisegundos.
+Tiempo de espera: 0 horas, 0 minutos, 0segundos, 0 milisegundos.
+Tiempo de ejecucion: 0 horas, 1 minutos, 16segundos, 82 milisegundos.
+
+[INFO] 19:03:06:593 Proceso Planificador/(7004:7035): Fin de rafaga de ejecucion del proceso: 2. 
+Mensajes de ejecucion: mProc 2 - Fallo.
+
+[INFO] 19:03:32:314 Proceso Planificador/(7004:7018): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/bemchmark.codcon PID: 1. 
+
+[INFO] 19:03:32:314 Proceso Planificador/(7004:7018): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 7015. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 7016. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 19:03:33:323 Proceso Planificador/(7004:7036): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Fallo.
+
+[INFO] 19:08:27:107 Proceso Planificador/(7223:7233): Conexion de cpu con ID: 7232. 
+
+[INFO] 19:08:27:115 Proceso Planificador/(7223:7236): Conexion de cpu con ID: 7231. 
+
+[INFO] 19:08:55:734 Proceso Planificador/(7223:7234): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/escribeSwap.codcon PID: 1. 
+
+[INFO] 19:08:55:734 Proceso Planificador/(7223:7234): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 7232. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 7231. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 19:08:59:870 Proceso Planificador/(7223:7234): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/escribeSwap.codcon PID: 2. 
+
+[INFO] 19:08:59:870 Proceso Planificador/(7223:7234): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 2. 
+Estado de las colas:
+Cpu: 7232. 
+Proceso Ejecutando: 2. 
+Cola de listos: .
+
+Cpu: 7231. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 19:09:04:702 Proceso Planificador/(7223:7234): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/escribeSwap.codcon PID: 3. 
+
+[INFO] 19:09:11:900 Proceso Planificador/(7223:7237): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Iniciado.
+mProc 1 - Pagina 1 escrita: swap.
+mProc 1 - Pagina 1 leida: swap.
+mProc 1 - Pagina 2 escrita: el.
+mProc 1 - Pagina 2 leida: el.
+mProc 1 - Pagina 3 escrita: desde.
+mProc 1 - Pagina 3 leida: desde.
+mProc 1 - Pagina 0 escrita: hola.
+mProc 1 - Pagina 0 leida: swap.
+mProc 1 Finalizado correctamente.
+
+[INFO] 19:09:11:901 Proceso Planificador/(7223:7237): Fin de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/escribeSwap.codcon PID: 1. 
+Tiempo de respuesta: 0 horas, 1 minutos, 16segundos, 167 milisegundos.
+Tiempo de espera: 0 horas, 0 minutos, 0segundos, 0 milisegundos.
+Tiempo de ejecucion: 0 horas, 1 minutos, 16segundos, 167 milisegundos.
+
+[INFO] 19:09:11:901 Proceso Planificador/(7223:7237): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 3. 
+Estado de las colas:
+Cpu: 7232. 
+Proceso Ejecutando: 2. 
+Cola de listos: .
+
+Cpu: 7231. 
+Proceso Ejecutando: 3. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 19:09:18:906 Proceso Planificador/(7223:7238): Fin de rafaga de ejecucion del proceso: 2. 
+Mensajes de ejecucion: mProc 2 - Iniciado.
+mProc 2 - Pagina 1 escrita: swap.
+mProc 2 - Pagina 1 leida: swap.
+mProc 2 - Pagina 2 escrita: el.
+mProc 2 - Pagina 2 leida: el.
+mProc 2 - Pagina 3 escrita: desde.
+mProc 2 - Pagina 3 leida: desde.
+mProc 2 - Pagina 0 escrita: hola.
+mProc 2 - Pagina 0 leida: swap.
+mProc 2 Finalizado correctamente.
+
+[INFO] 19:09:18:906 Proceso Planificador/(7223:7238): Fin de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/escribeSwap.codcon PID: 2. 
+Tiempo de respuesta: 0 horas, 1 minutos, 19segundos, 36 milisegundos.
+Tiempo de espera: 0 horas, 0 minutos, 0segundos, 0 milisegundos.
+Tiempo de ejecucion: 0 horas, 1 minutos, 19segundos, 36 milisegundos.
+
+[INFO] 19:09:28:948 Proceso Planificador/(7223:7239): Fin de rafaga de ejecucion del proceso: 3. 
+Mensajes de ejecucion: mProc 3 - Iniciado.
+mProc 3 - Pagina 1 escrita: swap.
+mProc 3 - Pagina 1 leida: swap.
+mProc 3 - Pagina 2 escrita: el.
+mProc 3 - Pagina 2 leida: el.
+mProc 3 - Pagina 3 escrita: desde.
+mProc 3 - Pagina 3 leida: desde.
+mProc 3 - Pagina 0 escrita: hola.
+mProc 3 - Pagina 0 leida: swap.
+mProc 3 Finalizado correctamente.
+
+[INFO] 19:09:28:948 Proceso Planificador/(7223:7239): Fin de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/escribeSwap.codcon PID: 3. 
+Tiempo de respuesta: 0 horas, 0 minutos, 24segundos, 246 milisegundos.
+Tiempo de espera: 0 horas, 0 minutos, 7segundos, 199 milisegundos.
+Tiempo de ejecucion: 0 horas, 0 minutos, 17segundos, 47 milisegundos.
+
+[INFO] 19:09:59:596 Proceso Planificador/(7223:7234): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/cagadas.codcon PID: 1. 
+
+[INFO] 19:09:59:597 Proceso Planificador/(7223:7234): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 7232. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cpu: 7231. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 19:10:00:618 Proceso Planificador/(7223:7250): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Fallo.
+
+[INFO] 19:12:45:878 Proceso Planificador/(7369:7417): Conexion de cpu con ID: 7410. 
+
+[INFO] 19:12:47:326 Proceso Planificador/(7369:7424): Conexion de cpu con ID: 7411. 
+
+[INFO] 19:13:25:956 Proceso Planificador/(7369:7419): Comienzo de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/escribeSwap.codcon PID: 1. 
+
+[INFO] 19:13:25:956 Proceso Planificador/(7369:7419): Ejecucion del algoritmo de planificacion: FIFO0. 
+Proceso seleccionado para ejecutar: 1. 
+Estado de las colas:
+Cpu: 7410. 
+Proceso Ejecutando: Ninguno. 
+Cola de listos: .
+
+Cpu: 7411. 
+Proceso Ejecutando: 1. 
+Cola de listos: .
+
+Cola de bloqueados: . 
+
+[INFO] 19:13:42:20 Proceso Planificador/(7369:7433): Fin de rafaga de ejecucion del proceso: 1. 
+Mensajes de ejecucion: mProc 1 - Iniciado.
+mProc 1 - Pagina 1 escrita: swap.
+mProc 1 - Pagina 1 leida: swap.
+mProc 1 - Pagina 2 escrita: el.
+mProc 1 - Pagina 2 leida: el.
+mProc 1 - Pagina 3 escrita: desde.
+mProc 1 - Pagina 3 leida: desde.
+mProc 1 - Pagina 0 escrita: hola.
+mProc 1 - Pagina 0 leida: swap.
+mProc 1 Finalizado correctamente.
+
+[INFO] 19:13:49:601 Proceso Planificador/(7369:7433): Fin de ejecucion del proceso: /home/utnso/tp-2015-2c-404-name-not-found/mcodsChk3/escribeSwap.codcon PID: 1. 
+Tiempo de respuesta: 0 horas, 0 minutos, 24segundos, 645 milisegundos.
+Tiempo de espera: 0 horas, 0 minutos, 0segundos, 0 milisegundos.
+Tiempo de ejecucion: 0 horas, 0 minutos, 24segundos, 645 milisegundos.
+
+[INFO] 19:14:15:793 Proceso Planificador/(7369:7369): Desconexion de cpu con ID: 7410. 
+
+[INFO] 19:14:15:793 Proceso Planificador/(7369:7369): Desconexion de cpu con ID: 7411. 
+
